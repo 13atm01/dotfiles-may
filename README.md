@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.deviantart.com/13andi01/art/Render-Dotfiles-May-872758241" title="dotfiles may"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defm8kh-9131f950-0f1b-4c47-818d-574047474c74.png/v1/fill/w_1234,h_648,strp/render_dotfiles_may_by_13andi01_defm8kh-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzIiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm04a2gtOTEzMWY5NTAtMGYxYi00YzQ3LTgxOGQtNTc0MDQ3NDc0Yzc0LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e6BhLGnvlLpS6g99Nw06PI17pG0N-OeU81L9OSjWKFo" width="72%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Render-Dotfiles-May-872758241" title="dotfiles may"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defm8kh-9131f950-0f1b-4c47-818d-574047474c74.png/v1/fill/w_1234,h_648,strp/render_dotfiles_may_by_13andi01_defm8kh-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzIiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm04a2gtOTEzMWY5NTAtMGYxYi00YzQ3LTgxOGQtNTc0MDQ3NDc0Yzc0LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e6BhLGnvlLpS6g99Nw06PI17pG0N-OeU81L9OSjWKFo" width="70%"></a>
 </p>
 
 ## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/dotfiles-may?style=flat-square&label=&color=71c1f2&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
@@ -20,11 +20,6 @@
 
 
 ## :wrench: Installation
-
-> :information_source: **Panel Latte Dock**
-
-:penguin: *Debian/Ubuntu*
-
 
 > :computer: **Terminal kitty**
 
@@ -50,3 +45,24 @@
 - ```bash
   sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
   ```
+
+> :information_source: **Panel Latte Dock**
+
+- For maximum results I recommend that you install the [GitHub version](https://github.com/KDE/latte-dock), you just need to install the packages you need and follow the [INSTALLATION.md](https://github.com/KDE/latte-dock/blob/master/INSTALLATION.md) instructions
+
+> :rocket: **Widgets**
+
+- [Better Inline Clock](https://store.kde.org/p/1245902/)
+- [Ditto Menu](https://www.pling.com/p/1312669/)
+- [Panon](https://www.pling.com/p/1326546/)
+- System Tray
+- Latte Tasks
+
+## :gift_heart: Thanks to
+
+- [Google](www.google.com)
+- [GitHub](www.github.com)
+- [Pixiv](www.pixiv.net)
+- [KDE Store](store.kde.org)
+- [DeviantArt](www.deviantart.com)
+- [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart)
