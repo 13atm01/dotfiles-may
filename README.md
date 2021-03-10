@@ -60,9 +60,9 @@
 
 ## :gift_heart: Thanks to
 
-- [Google](www.google.com)
-- [GitHub](www.github.com)
-- [Pixiv](www.pixiv.net)
-- [KDE Store](store.kde.org)
-- [DeviantArt](www.deviantart.com)
-- [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart)
+- [Google](https://www.google.com/)
+- [GitHub](https://github.com/)
+- [Pixiv](https://www.pixiv.net/)
+- [KDE Store](https://store.kde.org/)
+- [DeviantArt](https://www.deviantart.com/)
+- [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
