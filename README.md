@@ -8,7 +8,7 @@
 
 :link: ***Theme 2*** <a href="https://www.deviantart.com/13andi01/art/My-Desktop-EL-DIVER-May-2-872771885" title="El Diver - May"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defmj3h-50d00d3a-5996-4203-9fae-3d036a2d7460.png/v1/fill/w_1192,h_670,q_70,strp/my_desktop_el_diver_may__2__by_13andi01_defmj3h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NjgiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm1qM2gtNTBkMDBkM2EtNTk5Ni00MjAzLTlmYWUtM2QwMzZhMmQ3NDYwLnBuZyIsIndpZHRoIjoiPD0xMzY2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.aTCnoLcgEqJbpFfcI0XOcMAd0UL25R80BLI1lZOB8wU"></a>
 
-:link: ***Theme 2*** <a href="https://www.deviantart.com/13andi01/art/My-Desktop-EL-DIVER-May-3-872830221" title="El Diver - May"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defns3x-af3456e9-b443-4b40-a5de-a4eb2f21aba2.png/v1/fill/w_1192,h_670,q_70,strp/my_desktop_el_diver_may__3__by_13andi01_defns3x-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NjgiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm5zM3gtYWYzNDU2ZTktYjQ0My00YjQwLWE1ZGUtYTRlYjJmMjFhYmEyLnBuZyIsIndpZHRoIjoiPD0xMzY2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.13YEzEZfjRNKQxD-MOK48bn1adzIbVTlyhdHZFhNNEg"></a>
+:link: ***Theme 3*** <a href="https://www.deviantart.com/13andi01/art/My-Desktop-EL-DIVER-May-3-872830221" title="El Diver - May"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defns3x-af3456e9-b443-4b40-a5de-a4eb2f21aba2.png/v1/fill/w_1192,h_670,q_70,strp/my_desktop_el_diver_may__3__by_13andi01_defns3x-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NjgiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm5zM3gtYWYzNDU2ZTktYjQ0My00YjQwLWE1ZGUtYTRlYjJmMjFhYmEyLnBuZyIsIndpZHRoIjoiPD0xMzY2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.13YEzEZfjRNKQxD-MOK48bn1adzIbVTlyhdHZFhNNEg"></a>
   
 ## :computer: My Setup :computer:
 
@@ -66,6 +66,7 @@
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
 - [Pixiv](https://www.pixiv.net/)
+- [GIMP](https://www.gimp.org/)
 - [KDE Store](https://store.kde.org/)
 - [DeviantArt](https://www.deviantart.com/)
 - [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
