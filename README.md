@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.deviantart.com/13andi01/art/Render-Dotfiles-May-872758241" title="dotfiles may"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defm8kh-9131f950-0f1b-4c47-818d-574047474c74.png/v1/fill/w_1234,h_648,strp/render_dotfiles_may_by_13andi01_defm8kh-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzIiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm04a2gtOTEzMWY5NTAtMGYxYi00YzQ3LTgxOGQtNTc0MDQ3NDc0Yzc0LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e6BhLGnvlLpS6g99Nw06PI17pG0N-OeU81L9OSjWKFo" width="75%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Render-Dotfiles-May-872758241" title="dotfiles may"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/defm8kh-9131f950-0f1b-4c47-818d-574047474c74.png/v1/fill/w_1234,h_648,strp/render_dotfiles_may_by_13andi01_defm8kh-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzIiLCJwYXRoIjoiXC9mXC8xZTY2YjdlNy02NjkwLTQ0MGEtYTcxYi04MjZlODA4MTk3NGFcL2RlZm04a2gtOTEzMWY5NTAtMGYxYi00YzQ3LTgxOGQtNTc0MDQ3NDc0Yzc0LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e6BhLGnvlLpS6g99Nw06PI17pG0N-OeU81L9OSjWKFo" width="72%"></a>
 </p>
 
 ## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/dotfiles-may?style=flat-square&label=&color=71c1f2&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
@@ -9,7 +9,7 @@
   
 ## :computer: My Setup :computer:
 
-<a href="https://ibb.co/M80jf5h"><img src="https://i.ibb.co/5YHzkx9/May.png" width="22%" align="right"></a>
+<a href="https://ibb.co/M80jf5h"><img src="https://i.ibb.co/5YHzkx9/May.png" width="20%" align="right"></a>
 
 - **OS :** Kubuntu
 - **DE :** KDE Plasma
@@ -21,14 +21,11 @@
 
 ## :wrench: Installation
 
-> :information_source: **Panel tint2**
+> :information_source: **Panel Latte Dock**
 
-:ubuntu: *Debian/Ubuntu*
+:penguin: *Debian/Ubuntu*
 
-- ```bash
-  sudo apt-get install tint2
-  ```
-  
+
 > :computer: **Terminal kitty**
 
 :penguin: *Debian/Ubuntu*
@@ -45,7 +42,7 @@
   sudo apt-get install zsh
   ```
 - ```bash
-  chsh -s $(which zsh)  #change default shell to zsh
+  chsh -s $(which zsh)      #change default shell to zsh
   ```
 
 > :page_with_curl: **oh-my-zsh**
