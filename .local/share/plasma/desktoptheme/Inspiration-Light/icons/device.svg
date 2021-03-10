@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="device.svg"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg"
+   viewBox="0 0 22 22">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="6.4754773"
+     inkscape:cx="7.3025695"
+     inkscape:zoom="5.3636364"
+     showgrid="false"
+     id="namedview19"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs81">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1,-1)"
+     id="22-22-device-notifier">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none"
+       id="rect3011-4"
+       width="22"
+       height="22"
+       x="1"
+       y="1" />
+    <path
+       class="ColorScheme-Text"
+       id="path3783"
+       d="M 6.96875,4.0625 7,9 5,9 5,20 19,20 19,9 17,9 17.03125,4.0625 z M 8,5 16,5.03125 16,9 8,8.96875 z M 8.96875,6 9,8 11,8 11,6.03125 z M 15.03125,6 12.9375,6.03125 12.9375,8 15,8 z M 11.9375,11 16,15 8,15 z M 8,16 l 8,0 0,1 -8,0 z"
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(25,-2)"
+     id="g2991">
+    <rect
+       y="0"
+       x="0"
+       height="24"
+       width="24"
+       id="rect2993"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
+    <g
+       transform="translate(-508,-1036.3622)"
+       id="g2995">
+      <path
+         style="fill:#0b0c0d;fill-opacity:1;stroke:none"
+         d="m 2,2 0,20 11,0 0,-3 -4,0 0,-6 4,0 0,-2 -4,0 0,-6 4,0 0,-3 z m 20,0.78125 c 0,0 -0.47953,1.5907 -1.890625,3.09375 C 18.894025,7.0386 18.83249,7.5 15.90625,7.5 l 0,-1.5 L 10,6 l 0,4 5.90625,0 0,-1.5 c 3.07376,0 3.591795,-0.66275 4.890625,-1.90625 C 22.165585,5.28315 22.90625,3.1875 22.90625,3.1875 z M 14,12 l 0,0.5 0,1.5 -4,0 0,4 4,0 0,1.5 0,0.5 0.5,0 7,0 0.5,0 0,-0.5 0,-7 0,-0.5 -0.5,0 -7,0 z m 1,1 6,0 0,6 -6,0 z"
+         transform="translate(508,1036.3622)"
+         id="path2997"
+         class="ColorScheme-Text" />
+    </g>
+  </g>
+  <g
+     id="device-notifier"
+     transform="matrix(1.4545455,0,0,1.4545455,-1.4545455,-35.454545)">
+    <rect
+       y="1"
+       x="1"
+       height="22"
+       width="22"
+       id="rect3817"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none"
+       d="m 7.1562498,3.7499996 0.03125,5.4999998 -0.6875,0 -1.3749999,1.3749996 0,8.25 1.3749999,1.375 10.9999992,0 1.375,-1.375 1e-6,-8.25 -1.375001,-1.3749996 -0.687499,0 0.03125,-5.4999998 z m 0.71875,0.6562499 8.2500002,0.03125 0,4.8124999 -8.2500002,-0.03125 z m 1.3749997,1.4062501 0,1.3749999 2.0625005,0 0,-1.3749999 z m 5.5000005,-10e-8 -2.0625,0 0,1.3749999 2.0625,0 z M 12,11.999999 l 2.75,2.75 -5.4999999,0 z m -2.7499998,4.125 5.4999998,0 0,0.6875 -5.5000003,0 z"
+       id="path3819" />
+  </g>
+  <g
+     id="16-16-device-notifier"
+     transform="translate(-4,22)">
+    <rect
+       y="4"
+       x="4"
+       height="16"
+       width="16"
+       id="rect3823"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none"
+       d="M 6.96875,6.0625 7,11 l -1,0 0,7 11,0 0,-7 -0.9375,-0.03125 0.03125,-4.9375 z M 8,7 l 7.0625,0 0,3.96875 -7.0625,0 z M 8.96875,8 9,10 11,10 11,8.03125 z M 14.09375,7.96875 12,8 l 0,1.96875 2.0625,0 z"
+       id="path3825" />
+  </g>
+</svg>

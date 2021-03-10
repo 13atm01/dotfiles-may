@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="calendar.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg4423"
+   height="30"
+   width="30">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-nodes="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="19.558037"
+     inkscape:cx="-18.126286"
+     inkscape:zoom="8.5775127"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.58823529"
+     borderopacity="1"
+     bordercolor="#000000"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid3851"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4425" />
+  <metadata
+     id="metadata4428">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1022.3622)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:label="#event"
+       id="event"
+       style="color:#bebebe;fill:#008662;fill-opacity:1"
+       d="m 15.75,1036.3622 c -0.984899,0 -1.75,0.7651 -1.75,1.7501 l 0,12.5 c 0,0.9848 0.765101,1.7499 1.75,1.7499 l 12.5,0 c 0.984899,0 1.75,-0.7651 1.75,-1.7499 l 0,-12.5 c 0,-0.985 -0.765101,-1.7501 -1.75,-1.7501 z m 4.25,2 4,0 0,2 -4,0 z m 0,4 4,0 0,8 -4,0 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
